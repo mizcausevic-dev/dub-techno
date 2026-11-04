@@ -1,0 +1,26 @@
+{
+  "title": "Dub Techno",
+  "study": "dt01",
+  "bpm": 122,
+  "source_audio": "preview/dub-techno-simple-synth-preview.mp3",
+  "source_audio_sha256": "ce23ae3f1431047ec90d1b578a463e807951019bf77a541a9661c3aa5fa9b492",
+  "source_midi": "midi/dt01-delay-room/dt01-delay-room-combined.mid",
+  "source_midi_sha256": "540a6705092deabe350155b194a8562e4ecfaad20db579897937b6aadc7590f0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "5c8b4622846f89118d01bb6c0695c9691c33ecbbe1f48950dead8cfb282ee2ed",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "cdbccd7195ddaa411c49018ef2c2fd5fbd6dee4f028c7d31d3a471d83df315bf",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "ee335f476cb5255138777d5d6444d4ff8e7f05449fa23ae2e7edad2475608960",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
