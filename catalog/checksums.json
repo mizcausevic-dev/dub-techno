@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3137,
+      "sha256": "a230474482401011e527f453e2fd23ca0daa5aee5e17cb535c941c0b4335c36e"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -38,8 +48,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1579,
-      "sha256": "8dd879a00c2558d896f9013d577f8b3c20bf0c176f44b7dc3c78868d22e1c09a"
+      "bytes": 1801,
+      "sha256": "ea6bf32d3b98bce720bc581fc84ac842678fbd3f9574edf6836d9c51118e1b8c"
     },
     {
       "path": "catalog/release-spec.json",
@@ -73,8 +83,8 @@
     },
     {
       "path": "downloads/dub-techno-midi.zip",
-      "bytes": 24706,
-      "sha256": "4779e821f18cef3b53bdd1547dee20093dbb5b309e8a87f79e05ef0dd75a9be1"
+      "bytes": 25917,
+      "sha256": "c7cec26e1dcf2ce1bb7a5ebd877597ea882dc46f84a2b4a440f18675becc64e5"
     },
     {
       "path": "index.html",
@@ -228,13 +238,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1038,
-      "sha256": "068e2e3793222f071bfe9da92aabc629ef4a3747c6506f00d053d361e7e0e064"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2976,
-      "sha256": "3239c0d70a06763f6de5caccde79e1ec4fd47d841af1ecaaa57e3fbef6a3f11e"
+      "bytes": 1121,
+      "sha256": "459d30086d90aab92a60950eb36bdbcc234d2e0159e19c193c614facd52c1f84"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -248,13 +253,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 54866,
-      "sha256": "06196196b6f5a4f8deb83b945619c6d8847d2439cac8636d376195b28ebe792f"
+      "bytes": 55043,
+      "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
     },
     {
       "path": "tools/validate_release.py",
