@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dt01,Delay Room,pack-local equal-tempered pitch collection,D,122,4/4,480,32,61440,midi/dt01-delay-room/dt01-delay-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dt02,Low Current,pack-local equal-tempered pitch collection,F,122,4/4,480,32,61440,midi/dt02-low-current/dt02-low-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dt03,Slate Echo,pack-local equal-tempered pitch collection,G#,122,4/4,480,32,61440,midi/dt03-slate-echo/dt03-slate-echo-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dt04,Night Return,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/dt04-night-return/dt04-night-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
